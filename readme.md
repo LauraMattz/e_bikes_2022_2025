@@ -8,7 +8,7 @@ A análise parte de uma pergunta simples:
 
 Os dados mostram que **sim, o boom é real**, especialmente a partir de 2024.
 
-![Mapa das importações de bikes e patinetes elétricos por estado](images/mapa_importacoes_ebikes.png)
+![Mapa das importações de bikes e patinetes elétricos por estado](mapa_importacoes_ebikes.png)
 
 ---
 
